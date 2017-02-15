@@ -1,5 +1,5 @@
 {
-  "name": "extended-search",
+  "name": "chrome-extended-search",
   "version": "0.1.0",
   "description": "Extended searching on websites",
   "private": true,
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tomlutzenberger/extended-search.git"
+    "url": "git+https://github.com/tomlutzenberger/chrome-extended-search.git"
   },
   "author": "Tom Lutzenberger",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tomlutzenberger/extended-search/issues"
+    "url": "https://github.com/tomlutzenberger/chrome-extended-search/issues"
   },
   "devDependencies": {
     "babel-core": "^6.7.2",

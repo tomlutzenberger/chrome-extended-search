@@ -1,3 +1,3 @@
 'use strict';
 
-console.log('\'Allo \'Allo! Content script');
+console.log('Chrome extended search: Content script');
